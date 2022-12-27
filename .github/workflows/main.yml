@@ -1,0 +1,2 @@
+- name: user-statistician
+  uses: cicirello/user-statistician@v1.20.0
